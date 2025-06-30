@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category_ID,Price,Stock_Quantity
+1,Smartphone,1,500.0,50
+2,Laptop,1,900.0,30
+3,T-Shirt,2,20.0,100
+4,Jeans,2,40.0,60
+5,Coffee Maker,3,80.0,25

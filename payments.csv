@@ -1,0 +1,3 @@
+Payment_ID,Order_ID,Payment_Date,Amount,Payment_Method
+1,1,2025-06-01,540.0,Credit Card
+2,3,2025-06-03,80.0,PayPal
